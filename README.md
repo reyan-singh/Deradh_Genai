@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1>IDM-VTON: Improving Diffusion Models for Authentic Virtual Try-on in the Wild</h1>
+<h1>DERADH: Revolutionizing Fashion E-commerce with AI-Powered Body Measurement and Virtual Try-One Wild</h1>
 
 
 <a href='https://huggingface.co/spaces/yisol/IDM-VTON'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-yellow'></a>
@@ -14,20 +14,10 @@
 ---
 
 
-![teaser2](assets/teaser2.png)&nbsp;
-![teaser](assets/teaser.png)&nbsp;
 
 
 
-## Requirements
 
-```
-git clone https://github.com/yisol/IDM-VTON.git
-cd IDM-VTON
-
-conda env create -f environment.yaml
-conda activate idm
-```
 
 ## Data preparation
 
